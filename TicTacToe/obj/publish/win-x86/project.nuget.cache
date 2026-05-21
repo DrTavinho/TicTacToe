@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hfL+srqnLuClwOe+jntg2NvmFN5HgPFsHbYwoSjWHOCwQ6tDPfiR3tsyvAyZHtT8M3zJW9KIftwvbc5+uuYgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\MeusJogos\\TicTacToe\\TicTacToe\\TicTacToe.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.1\\microsoft.netcore.app.runtime.win-x86.5.0.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.1\\microsoft.aspnetcore.app.runtime.win-x86.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
